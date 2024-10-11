@@ -31,10 +31,11 @@ The dataset spans from January to June 2023, containing **149,456 records** and 
 - Explore and optimize sales strategies by leveraging data to gain insights into customer behavior and preferences.
 - Clean, structure, and analyze the raw data to uncover trends, identify key performance drivers, and develop a dynamic, interactive dashboard that supports decision-making and performance monitoring.
 
-### Screenshot
-**Final Dashboard:**
-Link to [Interactive Dashboard at NovyPro](https://project.novypro.com/uVy2WC)
-![Final Dashboard](https://github.com)
+### Screenshot  
+**Final Dashboard:**  
+Link to [Interactive Dashboard at NovyPro](https://project.novypro.com/uVy2WC)  
+
+![Final Dashboard](https://raw.githubusercontent.com/jaskigit/Coffee-Shop-Sales/refs/heads/main/Dashboard.jpg)
 
 ## 🔧 Tools Used
 - **MS Excel**
